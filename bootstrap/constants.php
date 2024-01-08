@@ -25,7 +25,6 @@
     define('CORE'       , SYSTEM . 'core' . DS);
     define('HTTP'       , SYSTEM . 'http' . DS);
     define('INCLUDES'   , SYSTEM . 'includes' . DS);
-    define('LIBS'       , SYSTEM . 'libs' . DS);
     define('TRAITS'     , SYSTEM . 'traits' . DS);
     define('UTILS'      , SYSTEM . 'utils' . DS);
 

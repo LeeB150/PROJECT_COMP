@@ -1,5 +1,7 @@
 <?php
 namespace Zero;
+
+use mysqli;
 class App{
     public function __construct() {
         \Zero\Database::initialize();
