@@ -1,0 +1,6 @@
+[07-Jan-2024 11:12:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "k" in C:\xampp\htdocs\PROJECT_COMP\system\includes\debug.php:17
+Stack trace:
+#0 C:\xampp\htdocs\PROJECT_COMP\bootstrap\init.php(27): require_once()
+#1 C:\xampp\htdocs\PROJECT_COMP\index.php(8): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\PROJECT_COMP\system\includes\debug.php on line 17
