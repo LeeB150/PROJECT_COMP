@@ -37,4 +37,8 @@
     define('DEFAULT_CONTROLLER'         , 'Index');
     define('DEFAULT_ERROR_CONTROLLER'   , 'Index');
     define('DEFAULT_METHOD'             , 'Index');
+
+
+    // Time Constant for the system
+    define('TIME_ZONE_DEFAULT'          , 'UTC');
 ?>

@@ -2,9 +2,10 @@
     define("DS",    DIRECTORY_SEPARATOR);
     define("ROOT",  getcwd().DS);
     
-    date_default_timezone_set("UTC");
-
+    
     require_once __DIR__.DS."constants.php";
+    
+    date_default_timezone_set(TIME_ZONE_DEFAULT);
 
     $config_files = glob(CONFIG."*.php");
 
